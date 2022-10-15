@@ -16,7 +16,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using JsonSerializer = Newtonsoft.Json.JsonSerializer;
 
-namespace Net.Scaffolder
+namespace Net002
 {
     public class Startup
     {
@@ -72,7 +72,7 @@ namespace Net.Scaffolder
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Net.Scaffolder V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Net002 V1");
             });
 
             app.UseEndpoints(endpoints =>

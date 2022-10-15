@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Configuration;
 
-namespace Net.Scaffolder.Controllers
+namespace Net002.Controllers
 {
     [ApiController]
     [Route("[controller]")]

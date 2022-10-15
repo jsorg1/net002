@@ -1,7 +1,7 @@
 ﻿{
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "profiles": {
-    "Net.Scaffolder": {
+    "Net002": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

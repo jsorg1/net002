@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 #
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Scaffolder", "Net.Scaffolder\Net.Scaffolder.csproj", "{E1F94D13-0725-4680-BFAF-9CEFB72C8836}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net002", "Net002\Net002.csproj", "{E1F94D13-0725-4680-BFAF-9CEFB72C8836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Scaffolder.Tests", "Net.Scaffolder.Tests\Net.Scaffolder.Tests.csproj", "{DDA8E1CD-EDE8-4ED4-B681-E5D715181082}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net002.Tests", "Net002.Tests\Net002.Tests.csproj", "{DDA8E1CD-EDE8-4ED4-B681-E5D715181082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

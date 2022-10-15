@@ -21,7 +21,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\Net.Scaffolder\Net.Scaffolder.csproj" />
+        <ProjectReference Include="..\Net002\Net002.csproj" />
     </ItemGroup>
 
 </Project>

@@ -1,10 +1,10 @@
-using Net.Scaffolder.Controllers;
+using Net002.Controllers;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Abstractions;
 using Microsoft.Extensions.Configuration;
 using Xunit;
 
-namespace Net.Scaffolder.Tests
+namespace Net002.Tests
 {
 public class HelloWorldUnitTest
 {

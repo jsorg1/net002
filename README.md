@@ -1,4 +1,4 @@
-# net-scaffolder
+# net002
 
 ## Generated Swagger URL
 
@@ -40,7 +40,7 @@ curl -X GET "https://localhost:5001/HelloWorld" -H  "accept: text/plain"
   "Logging": {
     "LogLevel": {
       "Default": "Information",
-      "Net.Scaffolder.Controllers.HelloWorldController": "Trace",
+      "Net002.Controllers.HelloWorldController": "Trace",
     }
   }
 ```
